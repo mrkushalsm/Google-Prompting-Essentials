@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/module_4.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "module_4"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b828dc4485570e8f",
@@ -169,21 +170,5 @@
     }
   },
   "active": "93bec4cf6050d535",
-  "lastOpenFiles": [
-    "README.md",
-    "images/A cartoon-style graphic featuring a blue banner with the word 'Congratulations' written in bold, playful font. The banner is hanging above a desk that.webp",
-    "notes/module_3.md",
-    "notes/module_4.md",
-    "notes/module_1.md",
-    "notes/module_2.md",
-    "images/Prompt chaining.png",
-    "images/The effect of temperature score on top-p and top-k selection.png",
-    "images/Temperature sampling.png",
-    "images/TCREI.png",
-    "images/Strategies for tone and style in prompting.png",
-    "images/Specify your tone and style.png",
-    "images/Specify your tone and style 2.png",
-    "images/List of best-selling books.png",
-    "images/Grocery chain dataset.png"
-  ]
+  "lastOpenFiles": []
 }
