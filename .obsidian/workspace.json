@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b735872f7aa8402a",
+    "type": "split",
+    "children": [
+      {
+        "id": "711fb7867139c4f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93bec4cf6050d535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/module_4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "module_4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3060c5b6076c196",
+    "type": "split",
+    "children": [
+      {
+        "id": "393cba03a49f58aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5119e8f9554f323",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cd4049af4543208",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dc38493ea68bc400",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b828dc4485570e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1b53e831825eff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a433a08337e7eab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/module_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for module_1"
+            }
+          },
+          {
+            "id": "e7f437a41697ee9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/module_1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from module_1"
+            }
+          },
+          {
+            "id": "f7acf5b502266f8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4ef73c5f2dbdb1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/module_1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of module_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "93bec4cf6050d535",
+  "lastOpenFiles": [
+    "README.md",
+    "images/A cartoon-style graphic featuring a blue banner with the word 'Congratulations' written in bold, playful font. The banner is hanging above a desk that.webp",
+    "notes/module_3.md",
+    "notes/module_4.md",
+    "notes/module_1.md",
+    "notes/module_2.md",
+    "images/Prompt chaining.png",
+    "images/The effect of temperature score on top-p and top-k selection.png",
+    "images/Temperature sampling.png",
+    "images/TCREI.png",
+    "images/Strategies for tone and style in prompting.png",
+    "images/Specify your tone and style.png",
+    "images/Specify your tone and style 2.png",
+    "images/List of best-selling books.png",
+    "images/Grocery chain dataset.png"
+  ]
+}
