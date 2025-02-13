@@ -53,7 +53,7 @@ Some projects are too big to be completed all at once—multi-part work often co
 
 ## Prompt chaining
 
-![[images/Prompt chaining.png]]
+![Prompt chaining.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Prompt%20chaining.png)
 
 Sometimes, for more complex tasks, it can help to take the output of a gen AI tool and use it as _**context**_ for a new prompt. Connecting prompts is like connecting links in a chain—which is why this process is called prompt chaining.
 
@@ -119,7 +119,7 @@ _Based on the attached text, generate a visually energetic graphic that congratu
 
 And the output:
 
-![[images/A cartoon-style graphic featuring a blue banner with the word 'Congratulations' written in bold, playful font. The banner is hanging above a desk that.webp]]
+![A cartoon-style graphic featuring a blue banner with the word 'Congratulations' written in bold, playful font. The banner is hanging above a desk that.webp](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/A%20cartoon-style%20graphic%20featuring%20a%20blue%20banner%20with%20the%20word%20'Congratulations'%20written%20in%20bold%2C%20playful%20font.%20The%20banner%20is%20hanging%20above%20a%20desk%20that.webp)
 
 _Note: This image is_ _AI-generated. Results are for illustrative purposes and may vary._
 
@@ -135,7 +135,7 @@ When you get the details on how a gen AI tool reaches its conclusions, you can a
 	
 - With chain-of-thought prompting, you can also single out a particular step in the tool’s process and redirect its decision-making from there. 
 
-![[images/Chain-of-thought prompting.png]]
+![Chain-of-thought prompting.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Chain-of-thought%20prompting.png)
 
 At the top, a box labeled "Prompt input" points with a downward arrow to a box labeled "Reasoning," then another downward arrow points to a second box also labeled "Reasoning," then another to a third box labeled "Reasoning," and then a final arrow to a box labeled "Prompt output."
 
@@ -163,7 +163,7 @@ You’d also like the paragraph to mention joining the agency’s community of c
 
 There are times when you might not be sure about the most productive way to go from one prompt in a chain to the next. Tree-of-thought prompting can help you compare many possible solutions at once and evaluate which will be most useful. In tree-of-thought prompting, a gen AI tool shows you multiple responses to your prompt, and allows you to choose which ones you’d like to pursue as you explore different possibilities, solutions and troubleshooting. If you land on an unsuccessful output, you can return to the previous step in your chain and explore other options until you’ve reached your desired result.
 
-![[images/Tree-of-thought prompting.png]]
+![Tree-of-thought prompting.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Tree-of-thought%20prompting.png)
 
 The chart begins with a bubble labeled "Prompt" at the top, branching off to three sub-prompts beneath it, with unsuccessful options represented by blue boxes and possibly successful options in green. At center, a green possibly-successful sub-prompt box branches off to four more in the next row down. Those branch off to another row, and in that row, a green box branches down once more to a successful output.
 
@@ -177,7 +177,7 @@ _The question is: Generate an image that's visually energetic, and features imag
 
 And its output:
 
-![[images/Generate an image that's visually energetic, and features images of art supplies and computers. Show me three suggestions in very different styles from simple to detailed and complex.png]]
+![Generate an image that's visually energetic, and features images of art supplies and computers. Show me three suggestions in very different styles from simple to detailed and complex.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Generate%20an%20image%20that's%20visually%20energetic%2C%20and%20features%20images%20of%20art%20supplies%20and%20computers.%20Show%20me%20three%20suggestions%20in%20very%20different%20styles%20from%20simple%20to%20detailed%20and%20complex.png)
 
 _Note: These images are_ _AI-generated. Results are for illustrative purposes and may vary_
 
@@ -187,7 +187,7 @@ _I really like the 2nd image. Generate 3 more images that are variations of the 
 
 And the next resulting output:
 
-![[images/Generate 3 more images that are variations of the 2nd image, they should look similar but distinctively identifiable.png]]
+![Generate 3 more images that are variations of the 2nd image, they should look similar but distinctively identifiable.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Generate%203%20more%20images%20that%20are%20variations%20of%20the%202nd%20image%2C%20they%20should%20look%20similar%20but%20distinctively%20identifiable.png)
 
 _Note: These images are_ _AI-generated. Results are for illustrative purposes and may vary_
 
@@ -297,7 +297,7 @@ Here’s how to create an AI agent: 
 	
 - Ask the tool to provide takeaways or improvement areas after the conversation ends. Example: “At the end of our conversation, provide a summary of the advice you provided.”
 
-![[images/Design AI Agents.png]]
+![Design AI Agents.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Design%20AI%20Agents.png)
 ## AI agent applications
 
 You know what goes into a prompt to create an AI agent, and earlier, you learned about two examples of how to use them: Agent Sim and Agent X. Now, you’ll uncover a couple more situations for AI agents that you might find really useful at work or in your personal life. But just so you know, these are only a few of the ways an AI agent can help you out! Because AI agents simulate conversations and are capable of roleplaying, they’re great for a ton of different scenarios. 

@@ -27,7 +27,7 @@ That’s thanks to contextual understanding, which allows a gen AI tool to inter
 - Stay consistent in the language it uses.
 - Understand inputs and generate outputs in the tone and style you provide it.
 
-![[images/Strategies for tone and style in prompting.png]]
+![Strategies for tone and style in prompting](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Strategies%20for%20tone%20and%20style%20in%20prompting.png)
 
 ## Strategies for tone and style in prompting
 
@@ -41,13 +41,13 @@ Maybe you have a report you want summarized for a colleague or manager. For exam
 
 _Summarize this report into three short paragraphs._
 
-![[images/Specify your tone and style.png]]
+![images/Specify your tone and style.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Specify%20your%20tone%20and%20style.png)
 
-Instead, specify the tone in your prompt_:_ 
+Instead, specify the tone in your prompt:
 
 _Summarize this report into three short paragraphs in a friendly, professional, and easy-to-comprehend tone._
 
-![[images/Specify your tone and style 2.png]]
+![Specify your tone and style 2.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Specify%20your%20tone%20and%20style%202.png)
 
 Your inputs will continue to impact your outputs as you _**iterate**_ in the same conversation thread, so being explicit and detailed from the initial setup is important. Bottom line: Don't leave things to interpretation. The more specific you get about the tone you’re after, the better the tool can match your expectations.
 

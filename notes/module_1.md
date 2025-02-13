@@ -7,7 +7,7 @@ Simple Framework **TCREI** (Thoughtfully Create Really Excellent Inputs),
 * E - Evaluate
 * I - Iterate
 
-![[TCREI.png]]
+![TCERI](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/TCREI.png)
 
 Minimally need only Task and Context.
 
@@ -143,7 +143,7 @@ It’s a simple prompt that only includes the _**task**_, and it might generate 
     
 - **Tweak your phrasing or switch to an analogous task:** Shift your language to explain what you mean in a different way. Or, try a different task that’s similar to what you’re trying to complete but different enough to trigger a new response. Here’s an example: _I’m starting a restaurant that will only include produce from within 50 miles. You’re a diner that lives in a major city and keeps up with the latest restaurant trends. Write a list of questions that I should consider before opening up the restaurant._
 
-![[images/Generate better outputs through iteration.png]]
+![Generate better outputs through iteration](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Generate%20better%20outputs%20through%20iteration.png)
 
 # Multimodal Prompting
 

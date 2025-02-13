@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "711fb7867139c4f7",
+        "id": "d6c1e37dc8d9be2a",
         "type": "tabs",
         "children": [
           {
-            "id": "93bec4cf6050d535",
+            "id": "157c81bfac59625d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b828dc4485570e8f",
@@ -169,6 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93bec4cf6050d535",
-  "lastOpenFiles": []
+  "active": "157c81bfac59625d",
+  "lastOpenFiles": [
+    "notes/module_4.md",
+    "notes/module_3.md",
+    "notes/module_2.md",
+    "notes/module_1.md",
+    "README.md"
+  ]
 }

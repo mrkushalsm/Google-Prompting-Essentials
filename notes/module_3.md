@@ -4,7 +4,7 @@ We use the TCERI prompting framework to unlock insights and patterns from data u
 
 For this example, we'll be using publicly available data found on Kaggle. Let us say we have the following dataset with information about a grocery chain,
 
-![[images/Grocery chain dataset.png]]
+![Grocery chain dataset.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Grocery%20chain%20dataset.png)
 
 We can use Google AI Studio to help analyze all the data and to find trends and patterns that could help inform how the company operates.
 
@@ -68,7 +68,7 @@ Before entering data into a gen AI tool, make sure the data is:
 * Complete
 * Bias-free
 
-![[images/Get your dataset ready.png]]
+![Get your dataset ready.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Get%20your%20dataset%20ready.png)
 
 Luckily, gen AI tools can help you get your dataset prepared and ready. Try using a gen AI tool to identify errors, spot strange-looking data points, and standardize how things are formatted.
 
@@ -194,7 +194,7 @@ You just need to know what to ask for. You can prompt a gen AI tool to get advi
 
 Let's assume we are co-owners of a bookstore. Here's a list of best-selling books and how many copies have been sold around the world since they've been published,
 
-![[images/List of best-selling books.png]]
+![List of best-selling books.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/List%20of%20best-selling%20books.png)
 
 Remember, not all gen AI tools can analyze data. Be sure to check what your tool can do before using it.
 
@@ -298,7 +298,7 @@ Imagine that you’re telling a friend about the errands you ran earlier that da
 - A lower temperature favors more likely, expected results. When you need realistic results or  hoping to create an accurate output, like summarizing an academic paper or generating a timeline of events, a low temperature is recommended to have the highest likelihood of getting factually accurate results.
 - A higher temperature gives less likely results a better chance of being selected. If you’re working on a creative task like writing a short story or thinking up an original product, and the gen AI tool is producing repetitive or generic responses, try raising the temperature.
 
-![[images/Temperature sampling.png]]
+![Temperature sampling.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/Temperature%20sampling.png)
 
 Setting the temperature to a low score like 0.1 would give the most-likely option (“grocery store”) the highest chance of selection and the other options a significantly lower chance. A higher temperature score like 1.5 would still leave the most-likely option with the highest chance of selection, but it’ll also give the less-likely options a much better chance, though that can also lead to unlikely (“volcano”) or even highly improbable (“the moon”) responses. 
 
@@ -326,7 +326,7 @@ Where the top-k value sets the number of tokens from which gen AI selects, the t
 
 ## The effect of temperature score on top-p and top-k selection
 
-![[images/The effect of temperature score on top-p and top-k selection.png]]
+![The effect of temperature score on top-p and top-k selection.png](https://github.com/mrkushalsm/Google-Prompting-Essentials/blob/main/images/The%20effect%20of%20temperature%20score%20on%20top-p%20and%20top-k%20selection.png)
 
 With all three sampling parameters, a high score can spark surprising insights—but that increase in randomness can also lead to hallucinations, so don’t forget to check the output. 
 
