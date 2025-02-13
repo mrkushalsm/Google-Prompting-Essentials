@@ -1,4 +1,4 @@
-Module 3# AI to uncover hidden patterns in data
+# AI to uncover hidden patterns in data
 
 We use the TCERI prompting framework to unlock insights and patterns from data using Gen AI tool. Remember that not all Gen AI tools work with data and to check what the tool can do before using it, and always review your organization's policies before including sensitive or confidential data in your prompt.
 
